@@ -1,2 +1,2 @@
 class hello ()
-{}	
+line2..	
